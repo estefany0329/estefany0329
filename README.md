@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @estefany0329
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola,meu nome é @estefany0329
+- 👀 meu  email de contato é estefany.cardoso@escola.pr.gov.br
+- 🌱 estou interessada em aprender a progamar novas linguagem .
+- 💞️ Eu estou aprendendo a progamar recentemente a linguagem javascript e scratch 
+- 📫 Brasil, Paraná, Campo magro.
 
 <!---
 estefany0329/estefany0329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
